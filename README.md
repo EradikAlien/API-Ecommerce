@@ -4,11 +4,13 @@
 
 Welcome to the Ecommerce API!
 
-This API is built using the Spring framework and is designed to be used as the backend for an ecommerce website or application. The API includes support for Google and Facebook OAuth2 authentication, as well as features for managing carts, categories, products, and wishlists.
+This API is built using the Spring framework and is designed to be used as the backend for an ecommerce website or application. The API includes support for Google and Facebook OAuth2 authentication, SwaggerUI, Stripes, as well as features for managing carts, categories, products, and wishlists.
 
 ## Features
 
 - Google and Facebook OAuth2 authentication
+- SwaggerUI
+- Stripes
 - Cart management
 - Category management
 - Product management
